@@ -1,0 +1,76 @@
+{
+    "3.8": {
+        "get-pip": "https://github.com/pypa/get-pip/commit/4cfa4081d27285bda1220a62a5ebf5b4bd749cdb",
+        "pip": "23.0.1",
+        "poetry": "1.7.1",
+        "setuptools": "57.5.0",
+        "variants": [
+            "bullseye",
+            "slim-bullseye",
+            "buster",
+            "slim-buster",
+            "alpine3.18",
+            "alpine3.17"
+        ],
+        "version": "3.8.16"
+    },
+    "3.9": {
+        "get-pip": "https://github.com/pypa/get-pip/commit/4cfa4081d27285bda1220a62a5ebf5b4bd749cdb",
+        "pip": "23.0.1",
+        "poetry": "1.7.1",
+        "setuptools": "58.1.0",
+        "variants": [
+            "bullseye",
+            "slim-bullseye",
+            "buster",
+            "slim-buster",
+            "alpine3.18",
+            "alpine3.17"
+        ],
+        "version": "3.9.16"
+    },
+    "3.10": {
+        "get-pip": "https://github.com/pypa/get-pip/commit/4cfa4081d27285bda1220a62a5ebf5b4bd749cdb",
+        "pip": "23.0.1",
+        "poetry": "1.7.1",
+        "setuptools": "65.5.1",
+        "variants": [
+            "bullseye",
+            "slim-bullseye",
+            "buster",
+            "slim-buster",
+            "alpine3.18",
+            "alpine3.17"
+        ],
+        "version": "3.10.11"
+    },
+    "3.11": {
+        "get-pip": "https://github.com/pypa/get-pip/commit/4cfa4081d27285bda1220a62a5ebf5b4bd749cdb",
+        "pip": "23.2.1",
+        "poetry": "1.7.1",
+        "setuptools": "65.5.1",
+        "variants": [
+            "bullseye",
+            "slim-bullseye",
+            "buster",
+            "slim-buster",
+            "alpine3.18",
+            "alpine3.17"
+        ],
+        "version": "3.11.13"
+    },
+    "3.12": {
+        "get-pip": "https://github.com/pypa/get-pip/commit/4cfa4081d27285bda1220a62a5ebf5b4bd749cdb",
+        "pip": "23.2.1",
+        "poetry": "1.7.1",
+        "variants": [
+            "bullseye",
+            "slim-bullseye",
+            "buster",
+            "slim-buster",
+            "alpine3.18",
+            "alpine3.17"
+        ],
+        "version": "3.12.1"
+    }
+}
